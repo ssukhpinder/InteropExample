@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenXmlExample", "InteropExample\OpenXmlExample.csproj", "{9C524E35-C17E-410A-B545-D6CCE86D976B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C524E35-C17E-410A-B545-D6CCE86D976B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C524E35-C17E-410A-B545-D6CCE86D976B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C524E35-C17E-410A-B545-D6CCE86D976B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C524E35-C17E-410A-B545-D6CCE86D976B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80AD43D4-7CFB-430C-A764-AE93B7913ADB}
+	EndGlobalSection
+EndGlobal
